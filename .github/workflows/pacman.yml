@@ -1,0 +1,23 @@
+name: PacMan eating my contributions
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # chạy mỗi ngày
+  workflow_dispatch:      # cho phép chạy tay
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: varunsridharan/action-github-contribution-graph@main
+        with:
+          mode: pacman
+          color_snake: yellow
+          color_dots: green
+          github_user_name: Khanh779-9
+      - name: Push GitHub Contribution Graph
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generated PacMan graph"
+          add: "*.svg"
