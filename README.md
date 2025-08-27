@@ -53,7 +53,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/output/pacman-contribution-graph.svg">
 </picture>
 
+[![Khanh779-9's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khanh779-9&bg_color=373F51&color=EBCFB2&line=E07A5F&point=24292e&area=true&hide_border=true)](https://github.com/Khanh779-9/github-readme-activity-graph)
+
 </div>
+
 
 ---
 
