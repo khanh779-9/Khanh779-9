@@ -14,7 +14,9 @@
 
 ---
 
-<img align="center"  src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/Gifs/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" alt="fun gif"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/Gifs/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" alt="fun gif"/>
+</div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" alt="wave" /> About Me
 
