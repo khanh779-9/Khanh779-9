@@ -12,12 +12,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=E07A5F&size=40&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Tran+Khanh;Welcome+to+my+GitHub+Profile!;Nice+to+meet+you+%3A)" alt="Typing Intro"/>
 </div>
 
+<img align="center"  src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/Gifs/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" alt="fun gif"/>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" alt="wave" /> About Me
-
-<img align="right"  src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/Gifs/81178b47a8598f0c81c4799f2cdd4057.gif" width="100%" alt="fun gif"/>
 
 - :credit_card: My full name is **Tran Khanh**  
 - :school: I'm currently a student  
