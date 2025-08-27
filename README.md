@@ -7,10 +7,13 @@
 
 </p>
 
+<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=E07A5F&size=40&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Tran+Khanh;Welcome+to+my+GitHub+Profile!;Nice+to+meet+you+%3A)" alt="Typing Intro"/>
 </div>
+
+<br/>
 
 ---
 
