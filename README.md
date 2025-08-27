@@ -20,22 +20,18 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" alt="wave" /> About Me
   <img style="padding-bottom:20px;" align="right" src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/Gifs/81178b47a8598f0c81c4799f2cdd4057.gif" width="350" height="300" alt="fun gif"/>
-  &nbsp;
 
-- :credit_card: My full name is **Tran Khanh**  
+&nbsp;
 
-- :school: I'm currently a student  
-
-- :books: My major is related to **Software / IT field**  
-
-- :earth_asia: I'm living in **Viet Nam**  
-
-- :computer: I’m focusing on learning **Web Development** and **Application Development**  
-
+- :credit_card: My full name is **Tran Khanh**
+- :school: I'm currently a student
+- :books: My major is related to **Software / IT field**
+- :earth_asia: I'm living in **Viet Nam**
+- :computer: I’m focusing on learning **Web Development** and **Application Development**
 - :monocle_face: Interested in coding, exploring new tech, and watching films
+- :sunglasses: Quote: ***"Keep learning, keep growing"***
 
-- :sunglasses: Quote: ***"Keep learning, keep growing"***  
-
+&nbsp;
 
 ---
 
