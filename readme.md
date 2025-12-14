@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Tran Khanh**, an **IT student** currently living in **Vietnam** 🇻🇳.  
+Hi, I'm **Tran Khanh**, an **IT student**
 I’m interested in **Web Development** and **Application Development**, and I enjoy learning new technologies through hands-on practice and small real-world projects.
 
 - 🎓 Major: Software / Information Technology  
