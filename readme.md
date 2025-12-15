@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=36&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Tran+Khanh;IT+Student+from+Vietnam;Welcome+to+my+GitHub+Profile" />
 </div>
@@ -45,8 +46,7 @@ I’m interested in **Web Development** and **Application Development**, and I e
 
 ## 📫 Contact
 
-- GitHub: https://github.com/Khanh779-9  
-- Email: qkhanh12.duration060@passinbox.com
+- GitHub: https://github.com/Khanh779-9
 
 ---
 
