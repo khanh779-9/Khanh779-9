@@ -36,10 +36,10 @@ I’m interested in **Web Development** and **Application Development**, and I e
 
 ## 📊 GitHub Overview
 
-[![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/0-profile-details.svg)]
+![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/0-profile-details.svg)
 
-[![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/1-repos-per-language.svg)]
-[![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/3-stats.svg)]
+![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/3-stats.svg)
 
 ---
 
