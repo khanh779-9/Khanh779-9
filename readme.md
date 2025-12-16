@@ -1,6 +1,8 @@
 
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=36&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Tran+Khanh;IT+Student+from+Vietnam;Welcome+to+my+GitHub+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=38&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Tran+Khanh;IT+Student+from+Vietnam;Welcome+to+my+GitHub+Profile" />
 </div>
 
 ---
