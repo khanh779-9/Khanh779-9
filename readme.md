@@ -22,10 +22,10 @@ I’m interested in **Web Development** and **Application Development**, and I e
 
 ## 🔧 Tech Stack
 
-- **Languages:** PHP, JavaScript, SQL  
+- **Languages:** Java, JavaScript, C#, PHP, C/C++
 - **Frontend:** HTML, CSS, Bootstrap, Angular (basic)  
-- **Backend:** PHP (native), MySQL  
-- **Tools:** Git, GitHub, VS Code  
+- **Backend:** PHP, Node JS  
+- **Tools:** Git, GitHub, VS Code, Docker, Figma, Postman  
 
 ---
 
