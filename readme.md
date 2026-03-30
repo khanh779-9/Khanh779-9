@@ -1,4 +1,3 @@
-
 <br>
 
 <div align="center">
@@ -7,53 +6,80 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-Hi, I'm **Tran Khanh**, an **IT student**
-I’m interested in **Web Development** and **Application Development**, and I enjoy learning new technologies through hands-on practice and small real-world projects.
+Hi, I'm **Trần Khánh** – an IT student with a passion for building clean, functional web and application solutions. I love transforming ideas into real-world products and continuously improving my craft through hands-on projects.
 
-- 🎓 Major: Software / Information Technology  
-- 💻 Focus: Web development & backend fundamentals  
-- 🌱 Currently learning: clean code, databases, best practices  
-- 🎯 Goal: build solid and practical projects  
-- 💬 Motto: *"Keep learning, keep growing"*
-
----
-
-## 🔧 Tech Stack
-
-- **Languages:** Java, JavaScript, C#, PHP, C/C++
-- **Frontend:** HTML, CSS, Bootstrap, Angular (basic)  
-- **Backend:** PHP, Node JS  
-- **Tools:** Git, GitHub, VS Code, Docker, Figma, Postman  
+- 🎓 **Major:** Software Engineering / Information Technology  
+- 💻 **Focus:** Web Development (Frontend & Backend)  
+- 🌱 **Currently learning:** Clean architecture, database optimization, and software testing  
+- 🎯 **Goal:** Contribute to open source and build a strong technical portfolio  
+- 💬 **Motto:** *“Keep learning, keep growing – code with purpose.”*
 
 ---
 
-## 📌 What I'm Doing Now
+## 🛠️ Tech Stack
 
-- Practicing backend logic and database design  
-- Building small learning projects  
-- Improving problem-solving and coding habits  
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Overview
+## 🚀 What I'm Doing Now
 
-![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/0-profile-details.svg)
-
-![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/3-stats.svg)
+- 🔨 Building backend APIs and working with relational databases  
+- 📘 Deepening knowledge of **Node.js** and **PHP** (Laravel)  
+- 🧪 Writing unit tests and refactoring legacy code  
+- 🧩 Contributing to small open-source projects  
+- 📝 Documenting my learning journey on GitHub
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Analytics
 
-- GitHub: https://github.com/Khanh779-9
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/0-profile-details.svg" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/1-repos-per-language.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/3-stats.svg" width="45%" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub:** [Khanh779-9](https://github.com/Khanh779-9)
+- **Email:** (bạn có thể thêm email nếu muốn)
 
 ---
 
 <div align="center">
-  Thanks for visiting my profile! 😊  
-  <br/>
-  © 2025 Tran Khanh
+  <i>Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration.</i>
+  <br/><br/>
+  © 2025 Trần Khánh
 </div>
