@@ -74,8 +74,6 @@ Hi, I'm **Trần Khánh** – an IT student with a passion for building clean, f
 ## 📫 Let's Connect
 
 - **GitHub:** [Khanh779-9](https://github.com/Khanh779-9)
-- **Email:** (bạn có thể thêm email nếu muốn)
-
 ---
 
 <div align="center">
