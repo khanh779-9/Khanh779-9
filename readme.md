@@ -18,7 +18,7 @@ Hi, I'm **Trần Khánh** – an IT student with a passion for building clean, f
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
