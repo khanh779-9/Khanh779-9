@@ -40,9 +40,10 @@ Hi, I'm **Trần Khánh** – an IT student with a passion for building clean, f
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-03AED2?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/REDIS-23BB32?style=for-the-badge&logo=REDIS&logoColor=white&color=FF4400)
 ![MongoDB](https://img.shields.io/badge/MONGODB-01937C?style=for-the-badge&logo=MONGODB&logoColor=white)
+<!-- ![MSSQL](https://img.shields.io/badge/MSSQL-03AED2?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)-->
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
