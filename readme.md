@@ -97,6 +97,8 @@ Hi, I'm **Trần Khánh** – an IT student with a passion for building clean, f
 <!-- **GitHub:** [Khanh779-9](https://github.com/Khanh779-9) -->
 <a href="https://github.com/Khanh779-9"> <img src="https://img.shields.io/badge/GitHub-Khanh779--9-181717?style=for-the-badge&logo=github"/> </a> 
 
+<a href="https://github.com/Khanh779"> <img src="https://img.shields.io/badge/GitHub-Khanh779-181717?style=for-the-badge&logo=github"/> </a> 
+
 ---
 
 <div align="center">
