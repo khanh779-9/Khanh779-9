@@ -55,16 +55,6 @@ Hi, I'm **Trần Khánh** – an IT student with a passion for building clean, f
 
 ---
 
-## What I'm Doing Now
-
-- Building backend APIs and working with relational databases  
-- Deepening knowledge of **Node.js** and **PHP** (Laravel)  
-- Writing unit tests and refactoring legacy code  
-- Contributing to small open-source projects  
-- Documenting my learning journey on GitHub
-
----
-
 ## GitHub Stats
 
 <div align="center">
