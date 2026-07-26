@@ -73,9 +73,6 @@ Hi, I'm **Trần Khánh** – an IT student with a passion for building clean, f
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/0-profile-details.svg" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/1-repos-per-language.svg" width="45%" />
   <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/3-stats.svg" width="45%" />
 </div>
