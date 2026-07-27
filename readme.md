@@ -60,9 +60,7 @@ Hi, I'm **Trần Khánh** – an IT student with a passion for building clean, f
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Khanh779-9&show_icons=true&theme=calm&hide_border=true" height="150" />
-
-<img src="https://streak-stats.demolab.com?user=khanh779-9&theme=calm" height="150" />
-
+<img src="https://streak-stats.demolab.com?user=khanh779-9&theme=calm&hide_border" height="150" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Khanh779-9&layout=compact&theme=calm&hide_border=true" height="150"/>
 
 </div>
