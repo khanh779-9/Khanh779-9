@@ -11,9 +11,7 @@
 
 Hi, I'm **Trần Khánh** – an IT student with a passion for building clean, functional web and application solutions. I love transforming ideas into real-world products and continuously improving my craft through hands-on projects.
 
-- **Major:** Software Engineering / Information Technology  
-- **Focus:** Web Development (Frontend & Backend)  
-- **Currently learning:** Clean architecture, database optimization, and software testing  
+- **Major:** Information Technology  
 - **Goal:** Contribute to open source and build a strong technical portfolio  
 - **Motto:** *“Keep learning, keep growing – code with purpose.”*
 
