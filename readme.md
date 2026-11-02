@@ -1,0 +1,102 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=38&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Tran+Khanh;IT+Student+from+Vietnam;Welcome+to+my+GitHub+Profile" />
+</div>
+
+---
+
+## About Me
+
+Hi, I'm **Trần Khánh** – an IT student passionate about building clean, functional web and application solutions.
+
+- **Major:** Information Technology
+- **Goal:** Contribute to open source and build a strong technical portfolio
+- **Motto:** *"Keep learning, keep growing – code with purpose."*
+
+---
+
+## Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### System, Infrastructure & Networking
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-0078D4?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge)
+![IPv4](https://img.shields.io/badge/IPv4-555555?style=for-the-badge)
+
+### Monitoring & Security
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Node Exporter](https://img.shields.io/badge/Node_Exporter-000000?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-333333?style=for-the-badge)
+![URLhaus](https://img.shields.io/badge/URLhaus-00599C?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## GitHub Stats & Analytics
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Khanh779-9&show_icons=true&theme=calm&hide_border=true" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Khanh779-9&layout=compact&theme=calm&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=khanh779-9&theme=calm&hide_border=true" height="150" />
+  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/0-profile-details.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/1-repos-per-language.svg" width="45%" />
+  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/3-stats.svg" width="45%" />
+</div>
+
+---
+
+## Let's Connect
+
+<a href="https://github.com/Khanh779-9"><img src="https://img.shields.io/badge/GitHub-Khanh779--9-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/Khanh779"><img src="https://img.shields.io/badge/GitHub-Khanh779-181717?style=for-the-badge&logo=github"/></a>
+
+---
+
+<div align="center">
+  <i>Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration.</i>
+  <br/><br/>
+  © 2025 Trần Khánh
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+</div>
