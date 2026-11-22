@@ -6,7 +6,6 @@ I'm an IT enthusiast with interests in **Software Development, System Administra
 - Learning Linux and Windows Server administration
 - Exploring network configuration, troubleshooting, and infrastructure management
 - Practicing containerization, virtualization, and server deployment
-- Building hands-on projects and labs to strengthen my technical skills
 
 ---
 
@@ -36,15 +35,12 @@ I'm an IT enthusiast with interests in **Software Development, System Administra
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windowsserver&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 ### Networking & Infrastructure
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-4285F4?style=flat-square)
 ![DHCP](https://img.shields.io/badge/DHCP-0078D4?style=flat-square)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ### Database & Message Brokers
 
@@ -67,7 +63,6 @@ I'm an IT enthusiast with interests in **Software Development, System Administra
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 <!--
 
@@ -90,13 +85,19 @@ Areas of interest:
 
 ## GitHub Stats & Analytics
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Khanh779-9&show_icons=true&theme=calm&hide_border=true" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Khanh779-9&layout=compact&theme=calm&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=khanh779-9&theme=calm&hide_border=true" height="150" />
+ <div align="center">
+
+  <!-- Row 1: GitHub Stats + Streak Stats -->
+  <img src="https://github-stats-extended.vercel.app/api?username=Khanh779-9&show_icons=true&theme=calm&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=khanh779-9&theme=calm&hide_border=true" height="180" />
+
+  <!-- Row 2: Top Languages + Profile Stats -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Khanh779-9&layout=compact&theme=calm&hide_border=true" height="180" />
+  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/3-stats.svg" height="180" />
+
+  <!-- Row 3: Profile Details -->
   <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/0-profile-details.svg" width="100%" />
-  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/1-repos-per-language.svg" width="45%" />
-  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/3-stats.svg" width="45%" />
+
 </div>
 
 ---
