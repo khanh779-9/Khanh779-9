@@ -2,8 +2,6 @@
 
 I'm an IT enthusiast with interests in **Software Development, System Administration, and Network Infrastructure**. I enjoy exploring how software applications are built, deployed, connected, and maintained across different environments.
 
-I believe in combining software engineering knowledge with infrastructure and networking skills to build, deploy, and manage reliable systems.
-
 - Developing backend applications and exploring software architecture
 - Learning Linux and Windows Server administration
 - Exploring network configuration, troubleshooting, and infrastructure management
@@ -43,7 +41,6 @@ I believe in combining software engineering knowledge with infrastructure and ne
 
 ### Networking & Infrastructure
 
-
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-4285F4?style=flat-square)
 ![DHCP](https://img.shields.io/badge/DHCP-0078D4?style=flat-square)
@@ -56,7 +53,6 @@ I believe in combining software engineering knowledge with infrastructure and ne
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-<!--![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)-->
 
 ### Containerization & Virtualization
 
@@ -73,7 +69,7 @@ I believe in combining software engineering knowledge with infrastructure and ne
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
----
+<!--
 
 ## Projects & Hands-on Labs
 
@@ -87,7 +83,10 @@ Areas of interest:
 - **Infrastructure:** Docker, virtualization, reverse proxies, and server deployment.
 - **Automation:** Bash, PowerShell, and scripting for system administration.
 
+-->
+
 ---
+
 
 ## GitHub Stats & Analytics
 
