@@ -82,21 +82,30 @@ Areas of interest:
 
 ---
 
-
 ## GitHub Stats & Analytics
 
- <div align="center">
+<div align="center">
 
-  <!-- Row 1: GitHub Stats + Streak Stats -->
-  <img src="https://github-stats-extended.vercel.app/api?username=Khanh779-9&show_icons=true&theme=calm&hide_border=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=khanh779-9&theme=calm&hide_border=true" height="180" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=Khanh779-9&show_icons=true&theme=calm&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=khanh779-9&theme=calm&hide_border=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Khanh779-9&layout=compact&theme=calm&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/3-stats.svg" width="100%" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Row 2: Top Languages + Profile Stats -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Khanh779-9&layout=compact&theme=calm&hide_border=true" height="180" />
-  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/3-stats.svg" height="180" />
-
-  <!-- Row 3: Profile Details -->
-  <img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/0-profile-details.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Khanh779-9/Khanh779-9/main/profile-summary-card-output/calm/0-profile-details.svg" width="100%" />
 
 </div>
 
